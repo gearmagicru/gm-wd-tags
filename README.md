@@ -1,4 +1,4 @@
-# Виджет "Список объектов связанных с меткой"
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-wd-tags/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Виджет "Список объектов связанных с меткой"
 
 Виджет предназначен для вывода списка объектов из базы данных по указанной метки (тегу) с параметрами.
 
