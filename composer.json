@@ -1,0 +1,32 @@
+{
+    "name": "gearmagicru/gm-wd-tags",
+    "description": "Site widget \"List of objects associated with the tag\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "site",
+        "widget",
+        "tags"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-wd-tags",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.wd.tags",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
